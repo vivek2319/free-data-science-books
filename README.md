@@ -115,7 +115,7 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Machine Learning Video Library](http://work.caltech.edu/library/#!?goback=.gde_35222_member_5810981726511443971) - Yaser Abu-Mostafa - `Intermediate`
 * [Natural Language Processing](https://class.coursera.org/nlp/lecture/preview) - Dan Jurafsky and Christopher Manning (Coursera) - `Intermediate`
 * [Social and Economic Networks: Models and Analysis](https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera) - `Intermediate`
-* [Social Network Analysis](https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera) - `Intermediate`
+* [Social Network Analysis](https://class.coursera.org/sna-003/class) - Lada Adamic - Coursera - `Intermediate`
 
 
 ## License
